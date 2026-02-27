@@ -28,4 +28,5 @@ Authentication: Clerk
 
 UI Components: Prebuilt Tailwind-based UI libraries
 
-Package Manager: npm / yarn
+Package Manager: npm
+
